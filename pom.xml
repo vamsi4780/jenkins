@@ -31,7 +31,7 @@
 			<plugin>
   <groupId>org.mule.tools.maven</groupId>
   <artifactId>mule-maven-plugin</artifactId>
-  <version>${mule.maven.plugin.version}</version>
+  <version>3.6.3</version>
   <extensions>true</extensions>
   <configuration>
     <cloudHubDeployment>
@@ -40,7 +40,7 @@
       <username>Vamsi478</username>
       <password>Vamsi478</password>
       <applicationName>mulejenkins</applicationName>
-      <environment>sandbox</environment>
+      <environment>Sandbox</environment>
       <region>eu-central-1</region>
       <workers>1</workers>
       <workerType>Micro</workerType>
